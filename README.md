@@ -37,7 +37,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lSNOTNULL&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a6ff&text_color=c9d1d9&icon_color=79c0ff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lSNOTNULL&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lSNOTNULL&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 ---
