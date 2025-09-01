@@ -50,7 +50,7 @@
 
 |               | Description                                                                                                                                                                                                                    |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Education     | <img alt="image" src="https://github.com/user-attachments/assets/a1a4a52f-4d4d-4555-9b73-a7caed9c0f0a" width="20" height="20"> The Korean Academic Credit Bank System, 컴퓨터공학 2023.07 ~ 2025.02                             |
+| Education     | <img alt="image" src="https://github.com/user-attachments/assets/a1a4a52f-4d4d-4555-9b73-a7caed9c0f0a" width="20" height="20"> The Korean Academic Credit Bank System, 컴퓨터공학 학사 2023.07 ~ 2025.02                        |
 |               | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTRZU_YMy6CZqeuzKacLvZoERQoAIrGj3Ng&s" width="20" height="20"> 프로그래머스 생성형 AI 활용 백엔드 데브코스 1기 2025.01 ~ 2025.07                                 |
 | Certificates  | 정보처리기사, SQLD, 네트워크관리사 2급, 컴퓨터활용능력 1급 
 </div>
