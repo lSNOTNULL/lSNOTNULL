@@ -1,8 +1,9 @@
 
-<div align="center">
+
 
 ## 🛠️ Tech Stacks
-
+<div align="center">
+  
 ### Backend
 ![Java](https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -35,8 +36,30 @@
 ## 🏅 Stats  
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lSNOTNULL&show_icons=true&bg_color=00000000&title_color=808080&text_color=808080" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lSNOTNULL&layout=compact&bg_color=00000000&title_color=808080&text_color=808080" />
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lSNOTNULL&show_icons=true&bg_color=00000000&title_color=60a6ff&text_color=c9d1d9&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lSNOTNULL&layout=compact&bg_color=00000000&title_color=60a6ff&text_color=c9d1d9&hide_border=true" />
 
 </div>
+
+---
+
+## 🎓Education / Certificates
+
+<div align="center">
+
+|               | Description                                                                                                                                                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Education     | <img alt="image" src="https://github.com/user-attachments/assets/a1a4a52f-4d4d-4555-9b73-a7caed9c0f0a" width="20" height="20"> The Korean Academic Credit Bank System, 컴퓨터공학 2023.07 ~ 2025.02                             |
+|               | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTRZU_YMy6CZqeuzKacLvZoERQoAIrGj3Ng&s" width="20" height="20"> 프로그래머스 생성형 AI 활용 백엔드 데브코스 1기 2025.01 ~ 2025.07                                 |
+| Certificates  | 정보처리기사, SQLD, 네트워크관리사 2급, 컴퓨터활용능력 1급 
+</div>
+
+## 📫 Contact 
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iream0411@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lsnotnull)
+
+</div>
+
