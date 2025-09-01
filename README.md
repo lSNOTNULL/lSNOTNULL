@@ -36,11 +36,12 @@
 ## 🏅 Stats  
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lSNOTNULL&show_icons=true&bg_color=00000000&title_color=60a6ff&text_color=c9d1d9&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lSNOTNULL&layout=compact&bg_color=00000000&title_color=60a6ff&text_color=c9d1d9&hide_border=true" />
-
+  <span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lSNOTNULL&show_icons=true&bg_color=00000000&title_color=60a6ff&text_color=c9d1d9&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lSNOTNULL&layout=compact&bg_color=00000000&title_color=60a6ff&text_color=c9d1d9&hide_border=true" />
+  </span>
 </div>
+
 
 ---
 
