@@ -1,5 +1,7 @@
-
-
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=blur&color=4FA9EBFF&height=100&section=header&text=If%20it%20won’t%20work,%20make%20it%20work&fontSize=30&fontColor=c9d1d9&animation=fadeIn)
+</div>
 
 ## 🛠️ Tech Stacks
 <div align="center">
